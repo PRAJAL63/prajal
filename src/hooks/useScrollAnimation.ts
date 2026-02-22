@@ -65,7 +65,7 @@ export const slideInLeft = {
   visible: {
     opacity: 1,
     x: 0,
-    transition: { duration: 0.6, ease: 'easeOut' as const },
+    transition: { duration: 0.4, ease: 'easeOut' as const },
   },
 };
 
@@ -74,6 +74,6 @@ export const slideInRight = {
   visible: {
     opacity: 1,
     x: 0,
-    transition: { duration: 0.6, ease: 'easeOut' as const },
+    transition: { duration: 0.4, ease: 'easeOut' as const },
   },
 };
